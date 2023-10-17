@@ -1,4 +1,4 @@
-h1, h2 {
+body{
   font-family: Arial;
   color: grey;
 }
@@ -10,4 +10,7 @@ h1 {
 
 p {
   color: maroon;
+}
+em {
+  font-family: "Cascadia Mono";
 }
