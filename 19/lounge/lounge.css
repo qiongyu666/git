@@ -48,6 +48,7 @@ p{
   background: white url(images/cocktail.gif) repeat-x;
 	text-align:          center;  /* 文本剧中对齐 */
   line-height: 1;
+  float: right;
 }
 .elixirs h2 {
   color: black;
