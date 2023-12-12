@@ -490,11 +490,11 @@ button {
 }
 
 .l-slider .slick-arrow.slick-prev {
-	background-image: url(/assets/img/top/btn_slider_prev.svg);
+	background-image: url(btn_slider_prev.svg);
 }
 
 .l-slider .slick-arrow.slick-next {
-	background-image: url(/assets/img/top/btn_slider_next.svg);
+	background-image: url(btn_slider_next.svg);
 }
 
 .l-slider .slick-dots {
